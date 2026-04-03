@@ -15,7 +15,7 @@ Outside of coding, I’m the kind of person who’s always exploring new tech, g
 If you’re here, maybe we can build something cool together!
 
 * 🌍  I'm based in New Delhi
-* 🖥️  See my portfolio at [pragunkakkar.me](http://pragunkakkar.pythonanywhere.com)
+* 🖥️  See my portfolio at [pragunkakkar.me](http://pragunkakkar.vercel.app)
 * ✉️  You can contact me at [kakkarpragun.work@gmail.com](mailto:kakkarpragun.work@gmail.com)
 * 🧠  I'm currently learning advanced backend development, FastAPI, cloud integrations, and AI/ML applications.
 * 👥  I'm looking to collaborate on web apps, backend projects, AI tools, automation scripts, and anything that solves real problems or sparks curiosity.
